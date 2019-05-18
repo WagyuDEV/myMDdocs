@@ -83,14 +83,14 @@ Regular Text
 
 [Link with title](https://www.google.com "Google's Homepage")
 
-[Repository link](../myMDdocs/blob/fib.py)
+[Repository link](../fib.py)
 ```
 
 [Link](https://www.google.com)
 
 [Link with title](https://www.google.com "Google's Homepage")
 
-[Repository link](../myMDdocs/blob/fib.py)
+[Repository link](../fib.py)
 
 # Images
 
